@@ -1,0 +1,40 @@
+_repo: Sininen-lintu-Satunaytelma_53505
+_version: 0.0.1
+alternative_title: L'oiseau bleu. Finnish
+contributor:
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Aho, Johani
+    - Brofeldt, Juhani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2016-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53505'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- Translations into Finnish'
+- !lcsh 'Fairy plays'
+- !lcc 'PQ'
+- GITenberg
+title: 'Sininen lintu: Satunäytelmä'
+url: http://www.gutenberg.org/ebooks/53505
