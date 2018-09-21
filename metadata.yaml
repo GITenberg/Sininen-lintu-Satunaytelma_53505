@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Juhani_Aho
     - http://en.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53505#Sininen-lintu-Satunaytelma
 gutenberg_issued: '2016-11-11'
 gutenberg_type: Text
 identifiers:
